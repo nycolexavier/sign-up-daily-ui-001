@@ -8,7 +8,7 @@
 ### Cambiar idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
 
 ### Application: 
-![image](https://user-images.githubusercontent.com/94902491/143624784-7dfa345b-6b53-4856-9ee2-4bd82b8d265f.png)
+![image-sign-up-readme](https://user-images.githubusercontent.com/74930052/147781763-d01719e5-2ed3-475f-8541-bcb24899cef8.png)
 
 ### Installation
 
