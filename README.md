@@ -10,35 +10,8 @@
 ### Application: 
 ![image-sign-up-readme](https://user-images.githubusercontent.com/74930052/147781763-d01719e5-2ed3-475f-8541-bcb24899cef8.png)
 
-### Installation
 
-```
-# abra seu terminal / cmd e clone este repositório
-
-git clone https://github.com/leon-carvalho/github-explorer.git
-
-# acessar pasta github-explorer
-
-cd github-explorer
-
-# instale dependências usando seu gerenciador de pacotes favorito
-
-yarn
-# ou com NPM usando npm install
-npm install
-
-# rodar o app
-
-yarn start
-#o con NPM
-npm run start
-
-# La aplicación debería abrirse en "http://localhost:8000" 🎉🎉🎉
-
-```
-
-
-<p align="center">Este projeto faz parte do Ignite da RocketSeat<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
+<p align="center">Este projeto faz parte do desafio Daily UI <a href="https://www.dailyui.co/" target='_blank'> Aqui </a> </p>
 
 <p align="center">
  <a href="#Objective">Objetivo</a> •
