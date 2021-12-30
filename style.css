@@ -7,3 +7,9 @@
 body {
     background-color: #858AE3;
 }
+
+#box-card {
+    background-color: aqua;
+    width: auto;
+    height: 28,125rem;
+}
