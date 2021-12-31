@@ -1,61 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
     <title>Document</title>
 </head>
+
 <body>
     <div class="split-screen">
-        <div id="left">
-            <section class="copy" >
+        <div class="left">
+            <section class="copy">
                 <h1>Explorer your creativity</h1>
                 <p>Over 100 courses tauhfd by fjd cifdsjfksd</p>
             </section>
         </div>
-    </div>
-    
-    <div id="right">
-        <form action="">
-            <section class="copy" >
-                <h2>Sign Up</h2>
-                <div class="login-container" >
-                    <p>Already have an account? <a href="#">
-                        <strong>Log In</strong>
-                    </a> </p>
+        <div class="right">
+            <form>
+                <section class="copy">
+                    <h2>Bem vindo de volta!</h2>
+                    <div class="login-container">
+                        <p>Faça login na sua conta</p>
+                    </div>
+                </section>
+                <div class="input-container email">
+                    <label for="fname">E-mail</label>
+                    <input id="email" name="email" type="email">
                 </div>
-            </section>
-            <div class="input-container name">
-                <label for="fname">Full Name</label>
-                <input id="fname" name="fname" type="text">
-            </div>
-            <div class="input-container email">
-                <label for="fname">Email</label>
-                <input id="email" name="email" type="email">
-            </div>
-            <div class="input-container password">
-                <label for="password">Password</label>
-                <input id="password" name="password" placeholder="Must be at least 6 characters" type="password">
-                <i class="far fa-eye-slash" ></i>
-            </div>
+                <div class="input-container password">
+                    <label for="password">Senha</label>
+                    <input id="password" name="password" placeholder="Must be at least 6 characters" type="password">
+                    <i class="far fa-eye-slash"></i>
+                </div>
 
-            <div class="input-container cta">
-                <label class="check-box-container" for="">
-                    <input type="checkbox" name="" id="">
-                    <span class="checkmark" ></span>
-                    Sign Up email updates.
-                </label>
-            </div>
-            <button class="signup-btn" type="submit" >Sign Up</button>
-            <section class="copy legal" >
-                <p><span class="small" > By continuing, you agree to accept or <br> <a href="">Privacy Policy </a>
+                <div class="input-container cta">
+                    <label class="checkbox-container" for="">
+                        <input type="checkbox">
+                        <span class="checkmark"></span>
+                        Lembre-se de mim
+                    </label>
+                </div>
+                <button class="signup-btn" type="submit">Entrar</button>
+                <button class="signup-btn" type="submit">Ou faça login com o Google</button>
+                <p> Não tem uma conta? <a href="#">
+                    <strong>Cadastre-se</strong></a> 
+                </p>
+                <section class="copy legal">
+                    <p><span class="small"> By continuing, you agree to accept or <br> <a href="">Privacy Policy </a>
                     &amp; <a href="#"> Terms of Services
-                </a>.</span></p>
-            </section>
-        </form>
+                    </a>.</span></p>
+                </section>
+            </form>
+        </div>
     </div>
 </body>
+
 </html>
