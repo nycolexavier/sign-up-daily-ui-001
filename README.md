@@ -1,7 +1,7 @@
 ![banners](https://user-images.githubusercontent.com/74930052/147782492-ba35ccf4-fc51-4e8e-9480-ef496078c38b.png)
 
 ----
-<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/> 
 
 ### Change language: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEeng.md" target="_blank">🇺🇸</a> 
 
