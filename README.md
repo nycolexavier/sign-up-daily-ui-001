@@ -26,11 +26,8 @@ Nesse repositório guardo todas as anotações, materiais e projetos que foram r
 
 ### Features
 
-- [x] Configurando ambiente
-- [x] Conceitos importantes
-- [x] Chamadas HTTP 
-- [x] Usando Typescript
-- [x] Finalizando aplicação
+- [x] Fazer o design no Figma
+- [x] Codificar o design
 
 ### Tecnologia
 
